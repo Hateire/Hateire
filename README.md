@@ -10,7 +10,7 @@
 ### :shinto_shrine: About Me :
 I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 
-- :computer: I’m working as a Front-end Developer and contributing to for building web applications.
+- :computer: I’m working as a Front-end Developer and contributing to building web applications.
 
 - :ocean: Exploring Technical Content Writing.
 
@@ -28,4 +28,6 @@ I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hateire&theme=dark&background=000000)](https://git.io/streak-stats)
 
