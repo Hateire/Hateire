@@ -6,7 +6,7 @@
   Welcome to IT-Ronin page
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px" width="30px"align="center"/>
 </h1>
-### :man_technologist: About Me :
+### :woman_technologist: About Me :
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
