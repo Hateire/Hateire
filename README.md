@@ -1,7 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/nzCDqg3pNqg7K/giphy.gif" width="500" align="center"/>
-  <img src="https://media.giphy.com/media/nzCDqg3pNqg7K/giphy.gif" width="500" align="center"/>
-  <img src="https://media.giphy.com/media/nzCDqg3pNqg7K/giphy.gif" width="500" align="center"/>
+  <img src="https://media.giphy.com/media/CiDU1mXlwqyOc/giphy.gif" width="500" align="center"/>
 </div>
 <h1>
   Welcome to IT-Ronin page
