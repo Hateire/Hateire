@@ -10,7 +10,7 @@
 ### :shinto_shrine: About Me :
 I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 
-- :telescope: I’m working as a Front-end Developer and contributing to for building web applications.
+- :computer: I’m working as a Front-end Developer and contributing to for building web applications.
 
 - :ocean: Exploring Technical Content Writing.
 
