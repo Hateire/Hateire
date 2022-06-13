@@ -31,3 +31,5 @@ I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hateire&theme=dark&background=000000)](https://git.io/streak-stats)
 
+https://www.codewars.com/users/Hateire/badges/large
+
