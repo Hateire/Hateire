@@ -35,5 +35,8 @@ I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 ###
 ![Top Langs](https://github-readme-stats.vercel.app/api?username=Hateire&count_private=true&show_icons=true&theme=dark)
 ###
-<a style={display: block;} href="https://www.codewars.com/users/Hateire"><img src="https://www.codewars.com/users/Hateire/badges/large"/></a>
+<!-- <a style={display: block;} href="https://www.codewars.com/users/Hateire"><img src="https://www.codewars.com/users/Hateire/badges/large"/></a> -->
+
+[![Тут текст]([https://img.youtube.com/vi/RHPYGwVQB2o/0.jpg](https://www.codewars.com/users/Hateire/badges/large))](https://www.codewars.com/users/Hateire)
+
 <img src="https://komarev.com/ghpvc/?username=Hateire&style=for-the-badge&color=blueviolet"/>
