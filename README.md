@@ -12,9 +12,9 @@ I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 > :computer: I’m working as a Front-end Developer and contributing to building web applications.
 
-- :ocean: Exploring Technical Content Writing.
+> :ocean: Exploring Technical Content Writing.
 
-- :clock4: In my free time, I playing videogames and read tech articles.
+> :clock4: In my free time, I playing videogames and read tech articles.
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
