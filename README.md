@@ -31,7 +31,7 @@ I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 </div>
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hateire&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hateire&theme=dark-smoky&background=000000)](https://git.io/streak-stats)
 ###
 ![Top Langs](https://github-readme-stats.vercel.app/api?username=Hateire&count_private=true&show_icons=true&theme=dark)
 ###
